@@ -1,0 +1,11 @@
+C:\projects\deckofcards-25482\src\DeckOfCards.TestConsole\bin\Debug\DeckOfCards.TestConsole.exe
+C:\projects\deckofcards-25482\src\DeckOfCards.TestConsole\bin\Debug\DeckOfCards.TestConsole.pdb
+C:\projects\deckofcards-25482\src\DeckOfCards.TestConsole\bin\Debug\DeckOfCards.dll
+C:\projects\deckofcards-25482\src\DeckOfCards.TestConsole\bin\Debug\DeckOfCards.pdb
+C:\projects\deckofcards-25482\src\DeckOfCards.TestConsole\obj\Debug\DeckOfCards.TestConsole.csprojResolveAssemblyReference.cache
+C:\projects\deckofcards-25482\src\DeckOfCards.TestConsole\obj\Debug\DeckOfCards.TestConsole.exe
+C:\projects\deckofcards-25482\src\DeckOfCards.TestConsole\obj\Debug\DeckOfCards.TestConsole.pdb
+C:\projects\deckofcards-25482\src\DeckOfCards.TestConsole\bin\Debug\DeckOfCards.TestConsole.exe.config
+C:\projects\deckofcards-25482\src\DeckOfCards.TestConsole\bin\Debug\DeckOfCards.Tests.dll
+C:\projects\deckofcards-25482\src\DeckOfCards.TestConsole\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\projects\deckofcards-25482\src\DeckOfCards.TestConsole\bin\Debug\DeckOfCards.Tests.pdb
